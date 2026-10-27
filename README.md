@@ -64,5 +64,29 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Givecloud is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://givecloud.com/
+Givecloud provides a fundraising platform that helps nonprofits increase donor engagement, streamline operations, and boost recurring giving. Their solution includes donation forms, membership management, sponsorships, online stores, impact‑giving experiences, and integrated tools for email automation, event registration, and virtual point‑of‑sale. Trusted by thousands of organizations, Givecloud aims to make fundraising feel better and work better for both donors and nonprofits.
+
+**Areas:** Company · Fundraising · Nonprofit · SaaS · Platform
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://givecloud.com/)
+- [Documentation](https://givecloud.com/about/)
+- [Getting started](https://help.givecloud.com/en/articles/11132883-getting-started-with-givecloud)
+- [Pricing](https://givecloud.com/pricing/)
+- [Support](https://givecloud.com/support-onboarding/)
+- [Blog](https://givecloud.com/blog/)
+- [Security](https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w?utm_source=chatgpt.com)
+- [Compliance](https://help.givecloud.com/en/articles/6045181-security)
+- [Terms of service](https://givecloud.com/terms-of-service)
+- [Privacy policy](https://givecloud.com/privacy-policy)
+- [GitHub](https://github.com/givecloud)
+- [Status](https://status.givecloud.com)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/givecloud/](https://apis.io/providers/givecloud/).
